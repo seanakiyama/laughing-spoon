@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/view/MainWindow.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/ExceptionHandler.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/VehicleType.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/view/VehicleDetail.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/Van.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/view/AddVehicle.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/RentalRecord.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/model/Database.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/FileHandling.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/ReturnException.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/VehicleMethods.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/VehicleStatus.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/Car.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/BaseVehicle.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/DateTime.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/RentException.java</file>
+            <file>file:/C:/Users/diego/Documents/NetBeansProjects/ThriftyRent/src/controller/InvalidIdException.java</file>
+        </group>
+    </open-files>
+</project-private>
